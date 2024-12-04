@@ -1,2 +1,2 @@
 # csci_1070
-This repo has homework assignments and code examples for CSCI 1070 at SLU.
+This repo has my final project contents in it . For my final project I chose to utilize a hulu data set . I wanted to know if such attribues like genre , release year , and available country had any significant coorelation to the rating of a show or movie. To find this out , I will first clean the data set by using various preprocessing methods like one hot encoding and standard scaler . After my data has been cleaned I will using machine learning models multiple linear regression and random forest regressor to view just how much the attributes coorelate to the rating.
